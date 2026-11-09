@@ -1,0 +1,6 @@
+{
+  "name": "La Chispa del Propósito - UNED Humanidades",
+  "description": "Espacio de indagación humanística, orientación vocacional y descubrimiento del propósito académico en la Facultad de Humanidades de la UNED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
